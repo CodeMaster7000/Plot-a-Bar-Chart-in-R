@@ -4,5 +4,5 @@ main = "Maximum Temperatures in a Week",
 xlab = "Degrees Celsius",
 ylab = "Day",
 names.arg = c("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"),
-col = "darkred",
+col = "red",
 horiz = TRUE)
